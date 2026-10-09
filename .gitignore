@@ -1,0 +1,13 @@
+  # Virtual environment
+  venv/
+
+  # Python cache
+  __pycache__/
+
+  # Logs and large output
+  *.log
+  books.csv
+  books.json
+
+  # Editor settings
+  .vscode/
